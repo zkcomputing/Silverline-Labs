@@ -6,3 +6,9 @@ marquee {
 body {
     background-color: #339cf2;
 }
+
+#button1 {
+    border-style: groove;
+    border-radius: 20px;
+    text-align: center;
+}
